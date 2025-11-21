@@ -1,0 +1,28 @@
+body {
+  background-image: url(Decore.png);
+  background-repeat: no-repeat;
+  background-position: top right;
+}
+
+.buttonfindoutmore {
+  background-color: #f1a501;
+  border: none;
+}
+
+.Poppins {
+  font-family: "Poppins";
+}
+
+.Volkhov {
+  font-family: "Volkhov";
+}
+
+.OpenSans {
+  font-family: "Open Sans";
+}
+
+.backval {
+  background-image: url(backgroundvalid.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+}/*# sourceMappingURL=style.css.map */
